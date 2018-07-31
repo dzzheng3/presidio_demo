@@ -1,4 +1,4 @@
-#Tue Jul 31 11:07:25 PDT 2018
+#Tue Jul 31 12:33:19 PDT 2018
 base.0=/Users/nzheng2/Downloads/RIBs-master-2/android/tutorials/tutorial1/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6
 renamed.0=classes.dex
 file.0=/Users/nzheng2/Downloads/RIBs-master-2/android/tutorials/tutorial1/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex

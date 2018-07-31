@@ -1,4 +1,4 @@
-#Tue Jul 31 11:07:25 PDT 2018
+#Tue Jul 31 11:41:21 PDT 2018
 file.2=/Users/nzheng2/Downloads/RIBs-master-2/android/tutorials/tutorial1/build/intermediates/transforms/dex/debug/folders/1000/10/classes_541422a9a0ab103be4741f2fb40247407e22663a/classes.dex
 base.2=/Users/nzheng2/Downloads/RIBs-master-2/android/tutorials/tutorial1/build/intermediates/transforms/dex/debug/folders/1000/10/classes_541422a9a0ab103be4741f2fb40247407e22663a
 file.1=/Users/nzheng2/Downloads/RIBs-master-2/android/tutorials/tutorial1/build/intermediates/transforms/dex/debug/folders/1000/10/reactive-streams-1.0.1_4810bd00df50cef08cb7fe82a03eb2decfabe11b/classes.dex

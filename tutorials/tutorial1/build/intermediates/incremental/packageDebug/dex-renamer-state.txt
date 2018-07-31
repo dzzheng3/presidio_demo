@@ -1,4 +1,4 @@
-#Tue Jul 31 11:07:26 PDT 2018
+#Tue Jul 31 12:33:19 PDT 2018
 base.0=/Users/nzheng2/Downloads/RIBs-master-2/android/tutorials/tutorial1/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_248c57388d39719ff12e28072d7a2341b03ad519
 renamed.1=classes2.dex
 renamed.0=classes.dex

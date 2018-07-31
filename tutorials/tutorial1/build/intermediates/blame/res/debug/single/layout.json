@@ -108,6 +108,10 @@
         "source": "/Users/nzheng2/.android/build-cache/855925aabc51ee8d667257171fd79c91a9a7180b/output/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
+        "merged": "/Users/nzheng2/Downloads/RIBs-master-2/android/tutorials/tutorial1/build/intermediates/res/merged/debug/layout/logged_out_rib.xml",
+        "source": "/Users/nzheng2/Downloads/RIBs-master-2/android/tutorials/tutorial1/src/main/res/layout/logged_out_rib.xml"
+    },
+    {
         "merged": "/Users/nzheng2/Downloads/RIBs-master-2/android/tutorials/tutorial1/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
         "source": "/Users/nzheng2/.android/build-cache/855925aabc51ee8d667257171fd79c91a9a7180b/output/res/layout/abc_list_menu_item_layout.xml"
     },

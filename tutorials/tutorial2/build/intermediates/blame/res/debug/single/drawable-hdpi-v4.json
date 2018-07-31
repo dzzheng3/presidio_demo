@@ -148,12 +148,12 @@
         "source": "/Users/nzheng2/.android/build-cache/855925aabc51ee8d667257171fd79c91a9a7180b/output/res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
-        "merged": "/Users/nzheng2/Downloads/RIBs-master-2/android/tutorials/tutorial2/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
-        "source": "/Users/nzheng2/.android/build-cache/855925aabc51ee8d667257171fd79c91a9a7180b/output/res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/Users/nzheng2/Downloads/RIBs-master-2/android/tutorials/tutorial2/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png",
         "source": "/Users/nzheng2/.android/build-cache/855925aabc51ee8d667257171fd79c91a9a7180b/output/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/nzheng2/Downloads/RIBs-master-2/android/tutorials/tutorial2/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/Users/nzheng2/.android/build-cache/855925aabc51ee8d667257171fd79c91a9a7180b/output/res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/nzheng2/Downloads/RIBs-master-2/android/tutorials/tutorial2/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png",

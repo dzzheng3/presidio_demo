@@ -16,6 +16,6 @@ public class RootRouterTest {
   public void setup() {
     MockitoAnnotations.initMocks(this);
 
-    router = new RootRouter(view, interactor, component);
+    router = new RootRouter(view, interactor, component, new LoggedOutBuilder(component));
   }
 }
