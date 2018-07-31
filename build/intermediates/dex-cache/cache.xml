@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/nzheng2/.android/build-cache/855925aabc51ee8d667257171fd79c91a9a7180b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/nzheng2/Downloads/RIBs-master-2/android/tutorials/tutorial1/build/intermediates/transforms/dex/debug/folders/1000/10/classes_735b31184b5e3fb89e3dd27139e3a81b6641fbfd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nzheng2/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/nzheng2/Downloads/RIBs-master-2/android/tutorials/tutorial1/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_17dc921690faab05dc1e98dad450645d891ddefb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nzheng2/.android/build-cache/581e8240a633aab24711ef7be11bc9b47babb190/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/nzheng2/Downloads/RIBs-master-2/android/tutorials/tutorial1/build/intermediates/transforms/dex/debug/folders/1000/10/classes_541422a9a0ab103be4741f2fb40247407e22663a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nzheng2/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/nzheng2/Downloads/RIBs-master-2/android/tutorials/tutorial1/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_56eb5c2878586be827c86613fcdb07362885234d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nzheng2/.android/build-cache/bd323a0e445f7a56f67bf2a73cf6d031e2428ffc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="21d5aff81a43d20a14f82d653366c9b7a215071c">
+        <dex dex="/Users/nzheng2/Downloads/RIBs-master-2/android/tutorials/tutorial1/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a478a04f3d69d7bc4e7a68068b2656c775c1ef6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nzheng2/.android/build-cache/588ad6888a05efac140cce4eaff5b183a5d46f74/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/nzheng2/Downloads/RIBs-master-2/android/tutorials/tutorial1/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ddff62aafde37be64a9e59cce1c80368a0a920ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nzheng2/.android/build-cache/871a8c4afc16d7f45d7d8c67b179432bdafd0492/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/nzheng2/Downloads/RIBs-master-2/android/tutorials/tutorial1/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a48ab7c4d160e113728287de0d5b5a0cf43a0d30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nzheng2/.android/build-cache/892e8dd7474ba9415c1b41de87856c0783d37725/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/nzheng2/Downloads/RIBs-master-2/android/tutorials/tutorial1/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5768d38b282e6fdb6f319334fc6fcc6d416cc919/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nzheng2/.android/build-cache/2e9f979c904a35cde2f3dfcb9e08d60a24a0d1dd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb305d2ec1f85a4122c5e9d0412c87e20dac20f8">
+        <dex dex="/Users/nzheng2/Downloads/RIBs-master-2/android/tutorials/tutorial1/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4afab9d62d79a4d0ab3570c51acf7e9419791d38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nzheng2/.android/build-cache/7679fb6d9781cd7d74f0807a59d45c3291a75074/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/nzheng2/Downloads/RIBs-master-2/android/tutorials/tutorial1/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e4a875edf2a35a4963c49465575bf7ba8a528dec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nzheng2/Downloads/RIBs-master-2/android/tutorials/tutorial1/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/nzheng2/Downloads/RIBs-master-2/android/tutorials/tutorial1/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_248c57388d39719ff12e28072d7a2341b03ad519/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nzheng2/.android/build-cache/677bf9fc667e8136d52c778657a4c09aaaf15ab7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/nzheng2/Downloads/RIBs-master-2/android/tutorials/tutorial1/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dcfb73900881db9211e04405a17669a96c5940fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nzheng2/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.1/1b1c911686eb40179219466e6a59b634b9d7a748/reactive-streams-1.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b1c911686eb40179219466e6a59b634b9d7a748">
+        <dex dex="/Users/nzheng2/Downloads/RIBs-master-2/android/tutorials/tutorial1/build/intermediates/transforms/dex/debug/folders/1000/10/reactive-streams-1.0.1_4810bd00df50cef08cb7fe82a03eb2decfabe11b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nzheng2/.gradle/caches/modules-2/files-2.1/com.uber.autodispose/autodispose/0.2.0/5b7671bc23f19772b07cad5c72d8098a857a408a/autodispose-0.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5b7671bc23f19772b07cad5c72d8098a857a408a">
+        <dex dex="/Users/nzheng2/Downloads/RIBs-master-2/android/tutorials/tutorial1/build/intermediates/transforms/dex/debug/folders/1000/10/autodispose-0.2.0_3940443c5f232fd0efe830137ac1e2395e879faf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nzheng2/.android/build-cache/691306040c1e35f3eab743a9082dd8b5eb8eaebf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/nzheng2/Downloads/RIBs-master-2/android/tutorials/tutorial1/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1713092303d3cdc3365e9bf54decfc037f65ad18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nzheng2/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.12/df1adf9e06a0d439acd3b0847fe19f6f524f9d35/dagger-2.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df1adf9e06a0d439acd3b0847fe19f6f524f9d35">
+        <dex dex="/Users/nzheng2/Downloads/RIBs-master-2/android/tutorials/tutorial1/build/intermediates/transforms/dex/debug/folders/1000/10/dagger-2.12_0c708d9cb231ea0429d731ccf608101535a940d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nzheng2/.android/build-cache/4492d6af5a51dee08c901889e914cb7a32714307/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/nzheng2/Downloads/RIBs-master-2/android/tutorials/tutorial1/build/intermediates/transforms/dex/debug/folders/1000/10/classes_946586e0026ea18e3705fcd5ae5166724c55cf44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nzheng2/.gradle/caches/modules-2/files-2.1/com.jakewharton.rxrelay2/rxrelay/2.0.0/2ed3d43181bb62afb00f675d17f3e6c2ffadd889/rxrelay-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2ed3d43181bb62afb00f675d17f3e6c2ffadd889">
+        <dex dex="/Users/nzheng2/Downloads/RIBs-master-2/android/tutorials/tutorial1/build/intermediates/transforms/dex/debug/folders/1000/10/rxrelay-2.0.0_a026600f004db7e5264c0833dc9e6e3279c73d94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nzheng2/Downloads/RIBs-master-2/android/tutorials/tutorial1/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1fbaecfe5b2289bd31ea34c0259848fad0167564">
+        <dex dex="/Users/nzheng2/Downloads/RIBs-master-2/android/tutorials/tutorial1/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a18ec8f5c4c7ce35097ff722a6f2305eaec496fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nzheng2/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.4/6a31162e65fba325430d9b9fec6b6e6ba31ee832/rxjava-2.1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a31162e65fba325430d9b9fec6b6e6ba31ee832">
+        <dex dex="/Users/nzheng2/Downloads/RIBs-master-2/android/tutorials/tutorial1/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-2.1.4_7b95973ab09e96ff5ed728552ce2f6bb5bf833a5/classes.dex" />
+    </item>
+
+</items>

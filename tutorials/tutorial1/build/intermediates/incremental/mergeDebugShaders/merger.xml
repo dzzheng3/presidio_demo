@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/nzheng2/Downloads/RIBs-master-2/android/tutorials/tutorial1/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/nzheng2/Downloads/RIBs-master-2/android/tutorials/tutorial1/src/debug/shaders"/></dataSet></merger>

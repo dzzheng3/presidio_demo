@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/nzheng2/Downloads/RIBs-master-2/android/libraries/rib-workflow/src/main/assets"/><source path="/Users/nzheng2/Downloads/RIBs-master-2/android/libraries/rib-workflow/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/nzheng2/Downloads/RIBs-master-2/android/libraries/rib-workflow/src/release/assets"/></dataSet></merger>

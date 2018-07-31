@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: idea_rt">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/LATEST-EAP-SNAPSHOT/f4ad6b5e9907cbe4488c366e23973f90819a15f0/ideaIC-LATEST-EAP-SNAPSHOT/lib/idea_rt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/LATEST-EAP-SNAPSHOT/8c3b0e48a4c95b91058f97d954e0eb634c5a3f/ideaIC-LATEST-EAP-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
